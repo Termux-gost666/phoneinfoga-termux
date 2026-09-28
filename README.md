@@ -1,5 +1,5 @@
 # Termux Tool: phoneinfoga-termux
 
-Guide on installing PhoneInfoga in Termux
+PhoneInfoga für Termux installieren & nutzen
 
 Code available on GitHub. Automated by JARVIS AI.
