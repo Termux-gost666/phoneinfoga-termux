@@ -1,0 +1,1 @@
+import os; os.system('pkg update; pkg install python git; git clone https://github.com/sundowndev/phoneinfoga; cd phoneinfoga; pip3 install -r requirements.txt; python3 setup.py develop')
